@@ -12,14 +12,14 @@ Clean, tabulated output for easy reading
 Saves the trained model for reuse
 
 Technologies Used
-Tool/Library	            Purpose
+Tool/Library	     -       Purpose
 
-PySpark (MLlib)	          Machine learning and data processing
+PySpark (MLlib)	    -      Machine learning and data processing
 
-ALS (Spark ML)	          Collaborative filtering model
+ALS (Spark ML)	    -      Collaborative filtering model
 
-PrettyTable	              Tabular formatting in terminal
+PrettyTable	      -        Tabular formatting in terminal
 
-FuzzyWuzzy	              Fuzzy string matching for movie names
+FuzzyWuzzy	      -        Fuzzy string matching for movie names
 
-Python-Levenshtein	      Speed-up for fuzzy matching
+Python-Levenshtein	  -    Speed-up for fuzzy matching
