@@ -13,8 +13,13 @@ Saves the trained model for reuse
 
 Technologies Used
 Tool/Library	            Purpose
+
 PySpark (MLlib)	          Machine learning and data processing
+
 ALS (Spark ML)	          Collaborative filtering model
+
 PrettyTable	              Tabular formatting in terminal
+
 FuzzyWuzzy	              Fuzzy string matching for movie names
+
 Python-Levenshtein	      Speed-up for fuzzy matching
